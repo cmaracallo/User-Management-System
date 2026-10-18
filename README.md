@@ -17,4 +17,21 @@ A Python program that manages users and logins from the command line. It lets a 
 4. Open Terminal in that folder and run: 'python user_management.py'
 5. Choose "Create account" first, then log in with the username the program gives you.
 
-   
+## What I learned 
+- How functions work and how to organize code
+- To test my code every time before I run it
+
+## Skills shown 
+- Writing and organizing functions
+- Using dictionaries to store users
+- Reading from and writing to files
+- Checking user input with loops and conditions
+
+## What I Learned 
+- How functions work and how to organize code so each part has a clear job
+- To test my code every time before I run it
+
+## What I would improve 
+- Hide the password while it is typed.
+- Ask for the old password before it can be changed.
+- Limit failed logins 
