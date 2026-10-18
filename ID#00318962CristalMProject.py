@@ -1,5 +1,5 @@
-##Cristal Maracallo ID:00318962
-##Project: User Management - CIS - 153
+##Cristal Maracallo 
+##Project: User Management 
 ## The program lets users create accounts, log in, and change their passwords.
 ##it saves usernames and passwords on an encrypted file, and keeps records of
 ##Everything users log in to another file.
